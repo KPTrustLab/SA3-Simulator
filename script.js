@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "";
 
 async function generateQuestion() {
 
